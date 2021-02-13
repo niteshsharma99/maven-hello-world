@@ -1,0 +1,3 @@
+[submodule "maven-hello-world"]
+	path = maven-hello-world
+	url = https://github.com/akashkrkashyap/maven-hello-world.git
